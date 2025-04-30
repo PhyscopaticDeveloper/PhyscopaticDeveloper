@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: chat me on discord (krissperic#6463)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been learning for 1 or 2 months.
+- ⚡ Fun fact: I have been learning game devlopment for 4 years now since 2021
 
 <!---
 PhyscopaticDeveloper/PhyscopaticDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
